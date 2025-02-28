@@ -1,34 +1,28 @@
-# Bem-vindos ao meu GitHub! 👋
+# Quem Sou Eu?
 
-## Quem Sou Eu?
+Olá, seres humanos e máquinas que estão lendo isso! Sou o tipo de pessoa que acha que **"reiniciar" resolve 99% dos problemas da vida** (e dos computadores também). Desde os 15 anos, quando descobri que **"Ctrl + Alt + Del"** não era um código secreto para invadir a NASA, mergulhei de cabeça no mundo da TI. Minha jornada começou com um computador que travava mais do que eu na hora de falar em público, e hoje sou um mestre em fazer códigos funcionarem depois da **terceira xícara de café**.  
 
-Olá! Sou um entusiasta de TI desde os 15 anos, quando comecei a explorar o fascinante mundo dos sistemas operacionais e hardware. A curiosidade me levou a mergulhar de cabeça na programação, enfrentando muitos desafios pelo caminho.
+Sou o cara que consegue consertar sua impressora, mas ainda não descobriu como consertar sua vida amorosa. Adoro **hardware**, **software** e qualquer coisa que termine com **"ware"** – menos **"malware"**, esse é meu arqui-inimigo. Se você me vir por aí, provavelmente estarei debatendo se **Python é melhor que Java** ou tentando explicar para minha mãe que **"nuvem"** não é um lugar onde os dados flutuam magicamente.  
 
-## Minha Jornada
+No meu tempo livre, gosto de desafios impossíveis, como:  
+- Convencer o Wi-Fi a funcionar em todos os cômodos da casa.  
+- Encontrar um bug no código sem chorar.  
 
-Minha jornada começou com muitas noites acordadas e finais de semana na frente do PC (lembram da internet discada? Ah, bons tempos... nada como esperar até meia-noite para poder usar a internet sem gastar todo o saldo de telefone da casa!).
+Se precisar de ajuda com tecnologia, é só chamar – mas, por favor, **não me peça para consertar o Excel da sua tia**. Até lá, estarei aqui, tentando salvar o mundo um **"Hello, World!"** de cada vez.  
 
-**Linguagens que Quase Aprendi:**
+---
 
-- C (sim, aqueles ponteiros me deram algumas dores de cabeça!)
-- C++
-- Delphi
-- Desenvolvimento web em geral
+## Linguagens que Quase Aprendi:
 
-Durante os anos 2010, foi um período difícil para aprender. O conhecimento vinha das revistas e da internet discada que eu acessava uma vez por semana... quando dava sorte!
+- **C** (sim, aqueles ponteiros me deram algumas dores de cabeça... e alguns cabelos brancos também!)  
+- **C++** (porque uma linguagem complicada não era o suficiente, né?)  
+- **Delphi** (quem nunca tentou criar um programa que só funcionava na máquina do professor?)  
+- **Desenvolvimento web em geral** (HTML, CSS, JavaScript... ou seja, o trio que todo mundo acha que aprende em 2 horas no YouTube).  
 
-## Formação Acadêmica
+Durante os anos 2010, foi um período difícil para aprender. O conhecimento vinha das **revistas** e da **internet discada** que eu acessava uma vez por semana... quando dava sorte! Ah, a internet discada... aquela época em que você começava a baixar um arquivo de 10 MB e ia tomar um café, almoçar, jantar e dormir, e quando voltava, o download tinha falhado no final. Nostálgico, não?  
 
-Fiz um curso técnico em Informática, e atualmente estou cursando Ciência da Computação na Estácio.
+E sim, eu aprendi essas linguagens só para criar arquivos que deletavam o HD dos meus colegas (brincadeira... ou não?) e para criar **cheats** em jogos de FPS. Spoiler: não funcionou. Eu continuo sendo o único **"shitado"** que nunca ganhou uma partida. Mas, ei, pelo menos tentei, certo? (Brincadeira, galera, não me processem! 😅)  
 
-## Objetivo
+---
 
-Aqui, compartilho exercícios e projetos da faculdade. Sinta-se à vontade para explorar, aprender e colaborar!
-
-## Curiosidades
-
-- Meu primeiro "Hello World" foi um triunfo!
-- O som do modem discando ainda me causa nostalgia.
-- Adoro resolver problemas complexos e transformar café em código.
-
-Vamos codificar juntos? 🚀
+**Resumo da ópera:** Sou um nerd de TI que já sofreu com ponteiros em C, chorou com a internet discada e ainda acredita que um dia vai ganhar uma partida de FPS. Até lá, continuo tentando salvar o mundo, um **"Hello, World!"** de cada vez.  
