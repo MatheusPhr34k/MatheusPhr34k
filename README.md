@@ -4,7 +4,7 @@ Olá, seres humanos e máquinas que estão lendo isso! Sou o tipo de pessoa que 
 
 Sou o cara que consegue consertar sua impressora, mas ainda não descobriu como consertar sua vida amorosa. Adoro **hardware**, **software** e qualquer coisa que termine com **"ware"** – menos **"malware"**, esse é meu arqui-inimigo. Se você me vir por aí, provavelmente estarei debatendo se **Python é melhor que Java** ou tentando explicar para minha mãe que **"nuvem"** não é um lugar onde os dados flutuam magicamente.  
 
-No meu tempo livre:
+## No meu tempo livre:
 
 - Gosto de tentar explicar para meus amigos que "Linux não é só para hackers", enquanto eles continuam usando Windows porque **"é mais fácil".**
 
