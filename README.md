@@ -4,10 +4,13 @@ Olá, seres humanos e máquinas que estão lendo isso! Sou o tipo de pessoa que 
 
 Sou o cara que consegue consertar sua impressora, mas ainda não descobriu como consertar sua vida amorosa. Adoro **hardware**, **software** e qualquer coisa que termine com **"ware"** – menos **"malware"**, esse é meu arqui-inimigo. Se você me vir por aí, provavelmente estarei debatendo se **Python é melhor que Java** ou tentando explicar para minha mãe que **"nuvem"** não é um lugar onde os dados flutuam magicamente.  
 
-No meu tempo livre, gosto de desafios impossíveis, como:  
-- Convencer o Wi-Fi a funcionar em todos os cômodos da casa.  
-- Encontrar um bug no código sem chorar.  
+No meu tempo livre:
 
+- Gosto de tentar explicar para meus amigos que "Linux não é só para hackers", enquanto eles continuam usando Windows porque **"é mais fácil".**
+
+- Passo horas tentando descobrir por que meu código não funciona, só para perceber que esqueci um ponto e vírgula no final da linha.
+
+- Me divirto criando scripts super complexos para automatizar tarefas que levariam 5 segundos para fazer manualmente.
 Se precisar de ajuda com tecnologia, é só chamar – mas, por favor, **não me peça para consertar o Excel da sua tia**. Até lá, estarei aqui, tentando salvar o mundo um **"Hello, World!"** de cada vez.  
 
 ---
